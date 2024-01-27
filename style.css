@@ -1,0 +1,28 @@
+ #id-s1{
+    color: yellow ;
+  }
+  .s1{
+    color:pink;
+    font-size: 100px ;
+    text-decoration: dashed;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: ;
+  }
+  .s1{
+    color:orchid;
+  }
+  *{
+    background-color: yellow;
+  }
+  div*{
+    background-color: whitesmoke;
+  }
+  .s2{
+    color: aqua;
+    font-family:monospace ;
+    background-color: brown;
+    font-size: 100px;
+  }
+  
+
+ 
